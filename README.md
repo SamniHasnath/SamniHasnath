@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samni Hasnath</h1>
 <h3 align="center">I’m an undergraduate Software Engineering student from Sri Lanka, passionate about coding and exploring cloud technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samnihasnath" alt="samnihasnath" /></a> </p>
-
-### My Topic
 ---
 
 - 🔭 I’m currently working on **improving my coding skills.**
 
-- 🌱 I’m currently learning **AWS Cloud, Python, and Web Development.**
-
 - 👯 I’m looking to collaborate on collaborate on **beginner friendly open-source projects.**
-
-- 🤝 I’m looking for help with help with **learning advanced AWS services and web development tools.**
 
 - 💬 Ask me about **my journey as an undergraduate in Software Engineering and my learning experiences**
 
