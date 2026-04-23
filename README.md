@@ -54,12 +54,7 @@ I am a **Software Engineering Student** from Sri Lanka, dedicated to building sc
   </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamniHasnath&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamniHasnath&theme=tokyonight" />
-</p>
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamniHasnath&layout=compact&theme=tokyonight" />
@@ -67,14 +62,14 @@ I am a **Software Engineering Student** from Sri Lanka, dedicated to building sc
 
 ---
 
-## 🔥 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamniHasnath&theme=tokyo-night" />
 </p>
 
 ---
-### 🤝 Connect with me
+### Connect with me
 - 🔭 I’m currently working on **Full-Stack Applications and Data Analysis projects**
 - 👯 I’m looking to collaborate on **Open Source MERN projects or Data Science projects**
 - 💬 Ask me about **Web Development, Software Engineering, and Data Insights**
