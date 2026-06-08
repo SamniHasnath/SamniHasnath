@@ -112,19 +112,6 @@
   </picture>
 </div>
 
-### 📈 Productivity Metrics
-
-<div align="center">
-  <!-- WakaTime Integration ready below -->
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BD93F9&text_color=F8F8F2"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=calm&hide_border=true"/>
-    <img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
-  </picture> -->
-
-  [![SamniHasnath's github activity graph](https://img.shields.io/badge/GitHub%20Skyline-View%203D%20Contributions-BD93F9?style=for-the-badge&logo=github)](https://skyline.github.com/SamniHasnath/2024)
-</div>
-
 ## 📬 Let's Connect
 
 <div align="center">
