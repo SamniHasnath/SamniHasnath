@@ -102,16 +102,6 @@
   </picture>
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SamniHasnath&theme=dracula&no-frame=true&column=7&margin-w=4&margin-h=4"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SamniHasnath&theme=flat&no-frame=true&column=7&margin-w=4&margin-h=4"/>
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=SamniHasnath&theme=dracula"/>
-  </picture>
-</div>
-
 ### 📊 Contribution Graph
 
 <div align="center">
