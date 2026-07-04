@@ -76,22 +76,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- Core Metrics Cards -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SamniHasnath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&rank_icon=github"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SamniHasnath&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true&title_color=5E3A8C&icon_color=E91E8C&text_color=333333&rank_icon=github"/>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SamniHasnath&show_icons=true&theme=tokyonight" height="180em"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SamniHasnath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=BD93F9&text_color=F8F8F2"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SamniHasnath&layout=compact&theme=calm&hide_border=true&title_color=5E3A8C&text_color=333333"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamniHasnath&layout=compact&theme=tokyonight" height="180em"/>
-  </picture>
-</div>
-
 ### 🔥 Contribution Streak
 
 <div align="center">
