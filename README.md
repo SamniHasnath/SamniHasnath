@@ -15,21 +15,38 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 </div>
 
-## 👤 About Me
+## 👨‍💻 About Me
 
 ```yaml
-╭──────────────────────────────────────────────────────────╮
-│  name      :  Naufer Fathima Samni Hasnath               │
-│  origin    :  🇱🇰 Sri Lanka                               │
-│  role      :  Software Engineering Undergraduate         │
-│  mission   :  Code × Data × Cloud                        │
-├──────────────────────────────────────────────────────────┤
-│  building  :  Full-Stack Apps + Data Analysis            │
-│  seeking   :  MERN & Data Science collaborators          │
-│  learning  :  ML integration in modern software          │
-│  ask_me    :  Web Dev, Software Engineering, Data        │
-│  fun_fact  :  I debug with console.log and no regrets 😄 
-╰──────────────────────────────────────────────────────────╯
+Name        : Naufer Fathima Samni Hasnath
+Location    : Sri Lanka 🇱🇰
+Role        : Software Engineering Undergraduate
+
+Focus Areas :
+  - Full-Stack Web Development
+  - Data Science & Analytics
+  - Cloud Technologies
+
+Currently Building :
+  - Scalable Full-Stack Applications
+  - Data-Driven Software Solutions
+
+Currently Learning :
+  - Machine Learning Integration
+  - Modern Cloud Architecture
+
+Open To :
+  - MERN Stack Collaborations
+  - Data Science Projects
+  - Open Source Contributions
+
+Ask Me About :
+  - Software Engineering
+  - Web Development
+  - Data Analysis
+
+Fun Fact :
+  "I still use console.log() for debugging, and it works!"
 ```
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
